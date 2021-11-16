@@ -18,11 +18,27 @@ namespace RPSLS
             Paper disproves Spock,
             Spock vaporizes Rock.*/
 
-
-
+            Game game = new Game();
+            game.Run();
 
 
             Console.WriteLine("Welcome RPSLS");
+
+            
+
+            
+
+            
+
+           
+
+
+
+
+
+
+
+
             
             
         }
